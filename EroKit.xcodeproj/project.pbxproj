@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		62D9AAC622B6808900111BC0 /* PsychoactiveDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D9AAC522B6808900111BC0 /* PsychoactiveDetail.swift */; };
+		62D9AAC822B68C7900111BC0 /* chemicals.shtml in Resources */ = {isa = PBXBuildFile; fileRef = 62D9AAC722B68C7900111BC0 /* chemicals.shtml */; };
 		62D9D40622B64E4C00266B12 /* EroKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62D9D3FC22B64E4C00266B12 /* EroKit.framework */; };
 		62D9D40B22B64E4C00266B12 /* EroKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D9D40A22B64E4C00266B12 /* EroKitTests.swift */; };
 		62D9D40D22B64E4C00266B12 /* EroKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D9D3FF22B64E4C00266B12 /* EroKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -28,6 +30,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		62D9AAC522B6808900111BC0 /* PsychoactiveDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PsychoactiveDetail.swift; sourceTree = "<group>"; };
+		62D9AAC722B68C7900111BC0 /* chemicals.shtml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.other; path = chemicals.shtml; sourceTree = "<group>"; };
 		62D9D3FC22B64E4C00266B12 /* EroKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EroKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		62D9D3FF22B64E4C00266B12 /* EroKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EroKit.h; sourceTree = "<group>"; };
 		62D9D40022B64E4C00266B12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -83,6 +87,7 @@
 			children = (
 				62D9D41622B64E5A00266B12 /* ErowidParser.swift */,
 				62D9D41722B64E5A00266B12 /* Psychoactive.swift */,
+				62D9AAC522B6808900111BC0 /* PsychoactiveDetail.swift */,
 				62D9D41822B64E5A00266B12 /* PsychoactiveType.swift */,
 				62D9D3FF22B64E4C00266B12 /* EroKit.h */,
 				62D9D40022B64E4C00266B12 /* Info.plist */,
@@ -104,6 +109,7 @@
 			isa = PBXGroup;
 			children = (
 				62D9D42022B6529F00266B12 /* big_chart.shtml */,
+				62D9AAC722B68C7900111BC0 /* chemicals.shtml */,
 			);
 			path = "Test Resources";
 			sourceTree = "<group>";
@@ -214,6 +220,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62D9AAC822B68C7900111BC0 /* chemicals.shtml in Resources */,
 				62D9D42122B6529F00266B12 /* big_chart.shtml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -225,6 +232,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62D9AAC622B6808900111BC0 /* PsychoactiveDetail.swift in Sources */,
 				62D9D41B22B64E5A00266B12 /* PsychoactiveType.swift in Sources */,
 				62D9D41922B64E5A00266B12 /* ErowidParser.swift in Sources */,
 				62D9D41A22B64E5A00266B12 /* Psychoactive.swift in Sources */,

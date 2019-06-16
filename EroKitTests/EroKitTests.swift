@@ -12,7 +12,7 @@ import XCTest
 class RetrieveTest {
     static func retrieve(sender: AnyClass, resource: String, type: String) -> String? {
         let bundle = Bundle(for: sender)
-        let path = bundle.path(forResource: "big_chart", ofType: "shtml")
+        let path = bundle.path(forResource: resource, ofType: type)
         let string = try? String(contentsOfFile: path!, encoding: .utf8)
         return string
     }
@@ -43,6 +43,31 @@ class EroKitTests: XCTestCase {
             XCTAssertEqual(parsedTypes, correctTypes, "Parsed types were not correct")
         } catch {
             XCTFail("Unknown error occurred whilst parsing PsychoactiveTypes.")
+        }
+    }
+    
+    func testLimitedPsychoactive() {
+        guard let testHTML = RetrieveTest.retrieve(sender: self.classForCoder,
+                                                   resource: "chemicals",
+                                                   type: "shtml") else {
+                                                    XCTFail("Unable to retrieve")
+                                                    return
+        }
+        do {
+            let parsedPsychoactives = try ErowidParser
+                .parsePsychoactives(type: PsychoactiveType(name: "Chemicals",
+                                                           path: "/chemicals/"),
+                                    html: testHTML)
+            
+            let correctPsychoactive = EroKit.Psychoactive(name: "Alcohol", detailURL: "/chemicals/alcohol/alcohol.shtml", common: "Beer, Wine, Liquor", description: "Depressant")
+            
+            let parsedPsychoactive = parsedPsychoactives.first(where: { $0.name == "Alcohol" })
+
+            XCTAssertGreaterThan(parsedPsychoactives.count, 0, "No psychoactives were parsed")
+            XCTAssertNotNil(parsedPsychoactive, "No psychoactive matched name Alcohol")
+            XCTAssertEqual(parsedPsychoactive, correctPsychoactive, "Parsed types were not correct")
+        } catch {
+            XCTFail("Unknown error occurred whilst parsing Psychoactives.")
         }
     }
 

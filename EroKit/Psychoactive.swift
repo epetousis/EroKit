@@ -8,25 +8,9 @@
 
 import Foundation
 
-struct Psychoactive: Codable {
+struct Psychoactive: Codable, Equatable {
     let name: String
-    let type: PsychoactiveType
-    let vaultURL: URL?
-    let basicsURL: URL?
-    let imagesURL: URL?
-    let lawsURL: URL?
-    let doseURL: URL?
-    let experiencesURL: URL?
-    let faqURL: URL?
-    let effectsURL: URL?
-    let chemistryURL: URL?
-    let drugTestingURL: URL?
-    let healthURL: URL?
-    let historyURL: URL?
-    let spiritualRitualURL: URL?
-    let cultivationURL: URL?
-    let booksURL: URL?
-    let journalArticlesURL: URL?
-    let writingsURL: URL?
-    let mediaURL: URL?
+    let detailURL: String
+    let common: String? // This is sometimes referred to as OTHER NAMES, GENUS / SPECIES or COMMON NAME.
+    let description: String? // AKA: EFFECTS, USES, CONSTITUENTS, NATIVE TO
 }
