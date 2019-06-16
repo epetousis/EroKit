@@ -10,7 +10,7 @@ import Foundation
 
 // PsychoactiveTypes are found from https://erowid.org/general/big_chart.shtml
 // The Big Chart is very straightforward to scrape.
-struct PsychoactiveType: Codable {
+struct PsychoactiveType: Codable, Equatable {
     let name: String
-    let path: URL
+    let path: String
 }

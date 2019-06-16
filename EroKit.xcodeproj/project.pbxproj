@@ -14,6 +14,7 @@
 		62D9D41A22B64E5A00266B12 /* Psychoactive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D9D41722B64E5A00266B12 /* Psychoactive.swift */; };
 		62D9D41B22B64E5A00266B12 /* PsychoactiveType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D9D41822B64E5A00266B12 /* PsychoactiveType.swift */; };
 		62D9D41E22B64E7600266B12 /* SwiftSoup in Frameworks */ = {isa = PBXBuildFile; productRef = 62D9D41D22B64E7600266B12 /* SwiftSoup */; };
+		62D9D42122B6529F00266B12 /* big_chart.shtml in Resources */ = {isa = PBXBuildFile; fileRef = 62D9D42022B6529F00266B12 /* big_chart.shtml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		62D9D41622B64E5A00266B12 /* ErowidParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErowidParser.swift; sourceTree = "<group>"; };
 		62D9D41722B64E5A00266B12 /* Psychoactive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Psychoactive.swift; sourceTree = "<group>"; };
 		62D9D41822B64E5A00266B12 /* PsychoactiveType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PsychoactiveType.swift; sourceTree = "<group>"; };
+		62D9D42022B6529F00266B12 /* big_chart.shtml */ = {isa = PBXFileReference; lastKnownFileType = text.html.other; path = big_chart.shtml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,10 +93,19 @@
 		62D9D40922B64E4C00266B12 /* EroKitTests */ = {
 			isa = PBXGroup;
 			children = (
+				62D9D41F22B6526F00266B12 /* Test Resources */,
 				62D9D40A22B64E4C00266B12 /* EroKitTests.swift */,
 				62D9D40C22B64E4C00266B12 /* Info.plist */,
 			);
 			path = EroKitTests;
+			sourceTree = "<group>";
+		};
+		62D9D41F22B6526F00266B12 /* Test Resources */ = {
+			isa = PBXGroup;
+			children = (
+				62D9D42022B6529F00266B12 /* big_chart.shtml */,
+			);
+			path = "Test Resources";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -203,6 +214,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62D9D42122B6529F00266B12 /* big_chart.shtml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -12,3 +12,6 @@ Pods/
 
 # Ignore Carthage installed files
 Carthage/
+
+# Ignore test resources
+EroKitTests/Test Resources/*
