@@ -3,13 +3,17 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		62D9D40622B64E4C00266B12 /* EroKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62D9D3FC22B64E4C00266B12 /* EroKit.framework */; };
 		62D9D40B22B64E4C00266B12 /* EroKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D9D40A22B64E4C00266B12 /* EroKitTests.swift */; };
 		62D9D40D22B64E4C00266B12 /* EroKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 62D9D3FF22B64E4C00266B12 /* EroKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		62D9D41922B64E5A00266B12 /* ErowidParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D9D41622B64E5A00266B12 /* ErowidParser.swift */; };
+		62D9D41A22B64E5A00266B12 /* Psychoactive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D9D41722B64E5A00266B12 /* Psychoactive.swift */; };
+		62D9D41B22B64E5A00266B12 /* PsychoactiveType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D9D41822B64E5A00266B12 /* PsychoactiveType.swift */; };
+		62D9D41E22B64E7600266B12 /* SwiftSoup in Frameworks */ = {isa = PBXBuildFile; productRef = 62D9D41D22B64E7600266B12 /* SwiftSoup */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +33,9 @@
 		62D9D40522B64E4C00266B12 /* EroKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EroKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		62D9D40A22B64E4C00266B12 /* EroKitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EroKitTests.swift; sourceTree = "<group>"; };
 		62D9D40C22B64E4C00266B12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		62D9D41622B64E5A00266B12 /* ErowidParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErowidParser.swift; sourceTree = "<group>"; };
+		62D9D41722B64E5A00266B12 /* Psychoactive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Psychoactive.swift; sourceTree = "<group>"; };
+		62D9D41822B64E5A00266B12 /* PsychoactiveType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PsychoactiveType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +43,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62D9D41E22B64E7600266B12 /* SwiftSoup in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -71,6 +79,9 @@
 		62D9D3FE22B64E4C00266B12 /* EroKit */ = {
 			isa = PBXGroup;
 			children = (
+				62D9D41622B64E5A00266B12 /* ErowidParser.swift */,
+				62D9D41722B64E5A00266B12 /* Psychoactive.swift */,
+				62D9D41822B64E5A00266B12 /* PsychoactiveType.swift */,
 				62D9D3FF22B64E4C00266B12 /* EroKit.h */,
 				62D9D40022B64E4C00266B12 /* Info.plist */,
 			);
@@ -114,6 +125,9 @@
 			dependencies = (
 			);
 			name = EroKit;
+			packageProductDependencies = (
+				62D9D41D22B64E7600266B12 /* SwiftSoup */,
+			);
 			productName = EroKit;
 			productReference = 62D9D3FC22B64E4C00266B12 /* EroKit.framework */;
 			productType = "com.apple.product-type.framework";
@@ -148,6 +162,7 @@
 				TargetAttributes = {
 					62D9D3FB22B64E4C00266B12 = {
 						CreatedOnToolsVersion = 11.0;
+						LastSwiftMigration = 1100;
 					};
 					62D9D40422B64E4C00266B12 = {
 						CreatedOnToolsVersion = 11.0;
@@ -163,6 +178,9 @@
 				Base,
 			);
 			mainGroup = 62D9D3F222B64E4C00266B12;
+			packageReferences = (
+				62D9D41C22B64E7600266B12 /* XCRemoteSwiftPackageReference "SwiftSoup" */,
+			);
 			productRefGroup = 62D9D3FD22B64E4C00266B12 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -195,6 +213,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62D9D41B22B64E5A00266B12 /* PsychoactiveType.swift in Sources */,
+				62D9D41922B64E5A00266B12 /* ErowidParser.swift in Sources */,
+				62D9D41A22B64E5A00266B12 /* Psychoactive.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,6 +361,7 @@
 		62D9D41122B64E4C00266B12 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 2XNZ62C8VU;
@@ -356,6 +378,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = net.petousis.evan.EroKit;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -364,6 +387,7 @@
 		62D9D41222B64E4C00266B12 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 2XNZ62C8VU;
@@ -388,6 +412,7 @@
 		62D9D41422B64E4C00266B12 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2XNZ62C8VU;
 				INFOPLIST_FILE = EroKitTests/Info.plist;
@@ -406,6 +431,7 @@
 		62D9D41522B64E4C00266B12 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2XNZ62C8VU;
 				INFOPLIST_FILE = EroKitTests/Info.plist;
@@ -452,6 +478,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		62D9D41C22B64E7600266B12 /* XCRemoteSwiftPackageReference "SwiftSoup" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:scinfu/SwiftSoup.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.2.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		62D9D41D22B64E7600266B12 /* SwiftSoup */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 62D9D41C22B64E7600266B12 /* XCRemoteSwiftPackageReference "SwiftSoup" */;
+			productName = SwiftSoup;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 62D9D3F322B64E4C00266B12 /* Project object */;
 }
