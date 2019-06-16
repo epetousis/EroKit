@@ -16,12 +16,13 @@ class ErowidParser {
         
         // Select all tables in big_chart: these indicate every type of
         // psychoactive type that Erowid documents.
-        let tables = try doc.select("#content-body-frame .content-section table")
+        let tables = try doc.select("#content-body-frame > .content-section > table")
             .array()
         
         types = try tables.map({ (el: Element) throws -> PsychoactiveType in
-            let headerRow = try el.select("tbody tr").first()!
-            let name = try headerRow.select("tr .h8").text()
+            // First (header) row of each table indicates a type of psychoactive.
+            let headerRow = try el.select("tbody > tr").first()!
+            let name = try headerRow.select("td > .h8").text()
             return PsychoactiveType(name: name.capitalized,
                                     path: "/\(name.lowercased())/")
         })
