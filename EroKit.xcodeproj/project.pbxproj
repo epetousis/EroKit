@@ -32,6 +32,8 @@
 /* Begin PBXFileReference section */
 		62D9AAC522B6808900111BC0 /* PsychoactiveDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PsychoactiveDetail.swift; sourceTree = "<group>"; };
 		62D9AAC722B68C7900111BC0 /* chemicals.shtml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.other; path = chemicals.shtml; sourceTree = "<group>"; };
+		62D9AAC922B6976900111BC0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		62D9AACA22B697A500111BC0 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		62D9D3FC22B64E4C00266B12 /* EroKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EroKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		62D9D3FF22B64E4C00266B12 /* EroKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EroKit.h; sourceTree = "<group>"; };
 		62D9D40022B64E4C00266B12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -67,6 +69,8 @@
 		62D9D3F222B64E4C00266B12 = {
 			isa = PBXGroup;
 			children = (
+				62D9AACA22B697A500111BC0 /* LICENSE */,
+				62D9AAC922B6976900111BC0 /* README.md */,
 				62D9D3FE22B64E4C00266B12 /* EroKit */,
 				62D9D40922B64E4C00266B12 /* EroKitTests */,
 				62D9D3FD22B64E4C00266B12 /* Products */,
