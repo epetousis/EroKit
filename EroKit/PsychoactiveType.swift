@@ -11,12 +11,12 @@ import SwiftSoup
 
 // PsychoactiveTypes are found from https://erowid.org/general/big_chart.shtml
 // The Big Chart is very straightforward to scrape.
-struct PsychoactiveType: Codable, Equatable {
-    let name: String
-    let path: String
+public struct PsychoactiveType: Codable, Equatable {
+    public let name: String
+    public let path: String
 }
 
-extension ErowidParser {
+public extension ErowidParser {
     static func parsePsychoactiveTypes(html: String) throws -> Array<PsychoactiveType> {
         var types: Array<PsychoactiveType> = []
         let doc: Document = try SwiftSoup.parse(html)

@@ -17,5 +17,5 @@ extension Optional where Wrapped == String {
     }
 }
 
-class ErowidParser {
+public class ErowidParser {
 }

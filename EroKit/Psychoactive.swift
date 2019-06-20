@@ -9,14 +9,14 @@
 import Foundation
 import SwiftSoup
 
-struct Psychoactive: Codable, Equatable {
-    let name: String
-    let detailURL: String
-    let common: String? // This is sometimes referred to as OTHER NAMES, GENUS / SPECIES or COMMON NAME.
-    let description: String? // AKA: EFFECTS, USES, CONSTITUENTS, NATIVE TO
+public struct Psychoactive: Codable, Equatable {
+    public let name: String
+    public let detailURL: String
+    public let common: String? // This is sometimes referred to as OTHER NAMES, GENUS / SPECIES or COMMON NAME.
+    public let description: String? // AKA: EFFECTS, USES, CONSTITUENTS, NATIVE TO
 }
 
-extension ErowidParser {
+public extension ErowidParser {
     static func parsePsychoactives(type: PsychoactiveType, html: String) throws -> Array<Psychoactive> {
         let doc: Document = try SwiftSoup.parse(html)
         
