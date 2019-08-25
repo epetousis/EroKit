@@ -1,0 +1,1001 @@
+<html>
+<head>
+<title>Erowid Psychoactive Chemical Vaults</title>
+<meta name="description" content="Extensive information about psychoactive chemicals and drugs (both common and uncommon) including effects, legal status, research, media coverage, images, bibliographies and links.">
+<meta name="keywords" content="3 psychoactive drug chemical substance; hallucinogen psychedelic stimulant sedative depressant intoxicant; index list">
+<meta name="sperowider-extraweight" content="chemicals">
+
+<link href="/includes/general_default.css" rel="stylesheet" type="text/css">
+<link href="/includes/index_default.css" rel="stylesheet" type="text/css">
+<link href="/includes/index_chemicals_lb.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<!-- - - - - - - - - - - - - - - - - B E G I N    H E A D E R - - - - - - - - - - - - - - - - -->
+<script language="Javascript" src="/includes/headers/menu_data.js" type="text/javascript"></script>
+<script language="Javascript" src="/includes/headers/mmenu.js" type="text/javascript"></script>
+
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tr>
+<td><a href="/index.shtml"><img src="/includes/headers/images/h_sun1.gif" width="122" height="25" alt="" border="0"></a></td>
+<td background="/includes/headers/images/bar_squiggle.gif" width="100%" colspan="4">&nbsp;</td>
+</tr><tr>
+<td><a href="/index.shtml"><img src="/includes/headers/images/h_sun2.gif" width="122" height="70" alt="Erowid" border="0"></a></td>
+<td><a href="/index.shtml"><img src="/includes/headers/images/h_vaults.gif" width="120" height="70" alt="" border="0"></a></td>
+<td width="100%">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000" height="70"><tr>
+	<td>&nbsp;</td>
+	</tr></table>
+</td><td>
+	<table border="0" cellpadding="0" cellspacing="0" width="316" height="70" background="/includes/headers/images/center_psychoactives_1-1.jpg"><tr>
+	<td valign="top" align="right">&nbsp;</td>
+	</tr></table>
+</td><td>
+	<table border="0" cellpadding="0" cellspacing="0" width="130" height="70" background="/includes/headers/images/center_psychoactives_1-2.jpg">
+	<tr height="30"><td align="left" valign="bottom">
+<!-- Sperowider <include>
+	<form name="SearchForm" method="get" action="https://www.erowid.org/search.shtml">
+</include> <exclude> -->
+	<form name="SearchForm" method="get" action="/search.php">
+<!-- Sperowider </exclude> -->
+	<input type="hidden" name="exclude" value="">
+	<input type="text" size="13" name="q" value="" id="header-search">
+	<input type="image" src="/includes/headers/images/go2.gif" border="0" alt="Search">
+	</td></form></tr>
+	<tr height="4"><td></td></tr>
+	<tr height="16">
+	<td align="left"><a href="/general/about/" onMouseOver="popup('about')" onMouseOut="popdn()"><img src="/includes/headers/images/h_about.gif" width="89" height="13" alt="" border="0"></a></td>
+	</tr><tr height="16">
+	<td align="left"><a href="/donations/" onMouseOver="popup('donations')" onMouseOut="popdn()"><img src="/includes/headers/images/h_join.gif" width="89" height="13" alt="" border="0"></a></td>
+	</tr><tr height="4"><td></td>
+	</tr></table>	
+</td></tr><tr><td colspan="6">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+	<td width="101"><img src="/includes/headers/images/bar_solid_left.gif" width="101" height="22" alt=""></td>
+	<td align="left" width="114"><a href="/psychoactives/" onMouseOver="popup('drugs')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_1.gif" width="114" height="22" border="0" alt="Plants - Drugs"></a></td>
+	<td align="left" width="103"><a href="/spirit/" onMouseOver="popup('mind')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_2.gif" width="103" height="22" border="0" alt="Mind - Spirit"></a></td>
+	<td align="left" width="117"><a href="/freedom/" onMouseOver="popup('freedom')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_3.gif" width="117" height="22" border="0" alt="Freedom - Law"></a></td>
+	<td align="left" width="110"><a href="/culture/" onMouseOver="popup('arts')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_4.gif" width="104" height="22" border="0" alt="Arts - Culture"></a></td>
+	<td align="left" width="77"><a href="/library/" onMouseOver="popup('library')" onMouseOut="popdn()">
+	<img src="/includes/headers/images/menu_5.gif" width="77" height="22" border="0" alt="Library"></a></td>
+	<td width="100%" background="/includes/headers/images/bar_solid_right.gif">&nbsp;</td>
+	</tr></table>
+</td></tr></table>
+
+<div id="main-frame">
+<div id="content-outer-frame">
+<!-- - - - begin message - - - -->
+<div id="content-messpath-frame">
+<div id="path"><!--  Directory: /chemicals/  - File: chemicals.shtml <br/> -->
+<div class="path-chunk"><a href="/chemicals/">CHEMICALS</a></div></div>
+<div id="message">
+<!--googleoff: index-->
+<!-- Sperowider <exclude> -->
+
+
+<style>
+#message { background: #bbbbee; border: 1px solid #000000; height: 99px; }
+#message-inner-lg { font: 500 1.55em georgia,times,serif; color: #111111; padding-top: 5px; text-align: center; letter-spacing: .02em; }
+#message-inner-sm { font: 500 1.03em arial,sans-serif; color: #111111; padding-top: 8px; letter-spacing: 0em; line-height: 18px; }
+.thumb { border: 1px solid #000000; float: left; height: 96px; margin-right: 10px; }
+  .thumb a:link { border: 1px solid #000000; }
+  .thumb a:visited { border: 1px solid #000000; }
+</style>
+<a href="/cgi-bin/r.php?message_id=354&url=/cgi-bin/exturl.php&Q&f=ms354&u=https://redcap.emory.edu/surveys/index.php__QM__s=CEXXRDNXNL&E&"><img src="/images/logos/logo_survey_emory_u.jpg" align="left" class="thumb">
+
+<div id="message-inner-lg">Naloxone Access & Experience Survey</div>
+
+<div id="message-inner-sm">Help out researchers at Emory University School of Medicine by answering a short 5-15 minute survey on your thoughts about and experiences with naloxone and opiates. [ <u>Go To Survey</u> ]</div></a>
+<script src="/includes/javascript/erowid_message_lib.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var mTimeExpired = 1560781624000;
+	var mDate = new Date();
+	if (mDate.getDate() < mTimeExpired) {  
+	   SendQuietRequest("https://www.erowid.org/cgi-bin/messages/message_view_record.php?message_id=354&page_url=/chemicals/chemicals.shtml");
+	}
+</script>
+<!-- Sperowider </exclude> -->
+<!--googleon: index-->
+</div>
+</div><!-- end content-messpath-frame -->
+<!-- - - - end message - - - -->
+
+<!-- read from cache : RunTime1: 0.0007  RunTime2: 0.0011 
+ /var/cache/php//www/erowid.org/includes/messages/cache_3c/
+ 3c/3cc36def3cdf0e2973966175a49d3a6a_chemicals.shtml_messpath.html 
+ --> 
+<!-- cache1: RunTime1: 0.0007 RunTime2: 0.00108  total: 0.0016770362854004 sanitizedURI:/chemicals/ -->
+<div id="content-body-frame">
+<!-- - - - - - - - - - - - - - - - - E N D    H E A D E R - - - - - - - - - - - - - - - - - - -->
+
+
+<div class="title-section">
+<div class="ts-title-pre"></div>
+<div class="ts-title">Psychoactive Chemicals</div>
+<div class="ts-title-sub"></div>
+</div><!-- end title-section -->
+
+
+<div class="content-section">
+
+
+<div class="summary-card">
+<div class="summary-card-description">
+
+<div class="summary-card-section-image"><img src="images/chemicals_summary1.jpg"></div>
+
+<div class="summary-text">
+Psychoactive Chemicals are chemicals which have mind- or emotion-altering properties.
+These chemicals range from the common to the extremely uncommon and include 
+chemicals with a long history of use as well as those with little to no track record.
+</div>
+
+</div><!-- end summary-section-description -->
+</div><!-- end summary-card -->
+
+
+<!--
+<div class="timely-message-surround"><div class="timely-message">
+
+</div></div>
+-->
+
+
+<!-- - - - - - BEGIN TOPIC CHART FOR THIS SECTION - - - - - - - - - - - - - - - - - - -->
+<table class="topic-chart-surround" cellpadding="0" cellspacing="0">
+
+<tr class="topic-surround">
+<th class="topic-chart-title">NAME</th>
+<th class="topic-chart-title">OTHER NAMES</th>
+<th class="topic-chart-title">EFFECTS</th>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="absinthe/absinthe.shtml">ABSINTHE</a></td>
+<td class="topic-common">Green Fairy</td>
+<td class="topic-desc">.</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="acetylfentanyl/acetylfentanyl.shtml">ACETYLFENTANYL</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Pain Killer</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="adrenochrome/adrenochrome.shtml">ADRENOCHROME</a></td>
+<td class="topic-common">Pink adrenaline</td>
+<td class="topic-desc">.</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="aet/aet.shtml">AET</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="alcohol/alcohol.shtml">ALCOHOL</a></td>
+<td class="topic-common">Beer, Wine, Liquor</td>
+<td class="topic-desc">Depressant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="a-pvp/a-pvp.shtml">alpha-PVP</a></td>
+<td class="topic-common">Flakka, Gravel</td>
+<td class="topic-desc">Euphoric Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="/pharms/amitriptyline/amitriptyline.shtml">AMITRIPTYLINE</a></td>
+<td class="topic-common">Elavil</td>
+<td class="topic-desc">Anti-depressant; Sedative</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="amphetamines/amphetamines.shtml">AMPHETAMINE</a></td>
+<td class="topic-common">Speed</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="amt/amt.shtml">AMT</a></td>
+<td class="topic-common">IT-290</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ayahuasca/ayahuasca.shtml">AYAHUASCA</a></td>
+<td class="topic-common">Yage</td>
+<td class="topic-desc">Psychedelic Brew</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="barbiturates/barbiturates.shtml">BARBITURATES</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Depressant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="bk_mbdb/bk_mbdb.shtml">BK-MBDB</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Euphoric Empathogen</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="bromo_dragonfly/bromo_dragonfly.shtml">BROMO-DRAGONFLY</a></td>
+<td class="topic-common">3C-Bromo-Dragonfly</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="bufotenin/bufotenin.shtml">BUFOTENIN</a></td>
+<td class="topic-common">Toad Venom, 5-Hydroxy-DMT</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="bz/bz.shtml">BZ</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Anti-cholinergic Psychedelic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="bzp/bzp.shtml">BZP</a></td>
+<td class="topic-common">Piperazine, A2</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="caffeine/caffeine.shtml">CAFFEINE</a></td>
+<td class="topic-common">Coffee, Tea</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="cannabinoids/cannabinoids.shtml">CANNABINOIDS</a></td>
+<td class="topic-common">JWH-018, CP 47,497 ...</td>
+<td class="topic-desc">Intoxicants</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="capsaicin/capsaicin.shtml">CAPSAICIN</a></td>
+<td class="topic-common">Pepper Oil</td>
+<td class="topic-desc">Spice, Irritant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="carbogen/carbogen.shtml">CARBOGEN</a></td>
+<td class="topic-common">Meduna's Mixture</td>
+<td class="topic-desc">.</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="cathinone/cathinone.shtml">CATHINONE</a></td>
+<td class="topic-common">methcathinone</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="chloroform/chloroform.shtml">CHLOROFORM</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Anaesthetic Volatile Solvent</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="chocolate/chocolate.shtml">CHOCOLATE</a></td>
+<td class="topic-common">Theobromine</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="/chemicals/cocaine/cocaine.shtml">COCAINE / CRACK</a></td>
+<td class="topic-common">Blow</td>
+<td class="topic-desc">Euphoric Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="desomorphine/desomorphine.shtml">DESOMORPHINE</a></td>
+<td class="topic-common">Krokodil</td>
+<td class="topic-desc">Opioid Analgesic / Euphoriant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="det/det.shtml">DET</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="dipt/dipt.shtml">DIPT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="dmt/dmt.shtml">DMT</a></td>
+<td class="topic-common">Dimitri</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="dob/dob.shtml">DOB</a></td>
+<td class="topic-common">Bob, Dr. Bob</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="doc/doc.shtml">DOC</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="doi/doi.shtml">DOI</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="dom/dom.shtml">DOM</a></td>
+<td class="topic-common">STP</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="dpt/dpt.shtml">DPT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="dxm/dxm.shtml">DXM</a></td>
+<td class="topic-common">Robo, Tussin</td>
+<td class="topic-desc">Dissociative, Cough Suppressant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ephedrine/ephedrine.shtml">EPHEDRINE</a></td>
+<td class="topic-common">Mini Thins</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ether/ether.shtml">ETHER</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Anaesthetic Gas</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ethylcathinone/ethylcathinone.shtml">ETHYLCATHINONE</a></td>
+<td class="topic-common">ethyl cat</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ethylene/ethylene.shtml">ETHYLENE</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Anaesthetic Gas</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ethylphenidate/ethylphenidate.shtml">ETHYLPHENIDATE</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ghb/ghb.shtml">GHB</a></td>
+<td class="topic-common">G</td>
+<td class="topic-desc">Depressant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ghv/ghv.shtml">GHV</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Depressant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="harmala/harmala.shtml">HARMALA</a></td>
+<td class="topic-common">Haoma, Harmine, Harmaline</td>
+<td class="topic-desc">MAOI</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="heroin/heroin.shtml">HEROIN</a></td>
+<td class="topic-common">Horse</td>
+<td class="topic-desc">Opiate</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="hypocretin/hypocretin.shtml">HYPOCRETIN</a></td>
+<td class="topic-common">Orexins</td>
+<td class="topic-desc">Hormone</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="iap/iap.shtml">IAP</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Amphetamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ibogaine/ibogaine.shtml">IBOGAINE</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="inhalants/inhalants.shtml">INHALANTS</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">.</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ketamine/ketamine.shtml">KETAMINE</a></td>
+<td class="topic-common">K, Special K</td>
+<td class="topic-desc">Dissociative, Anaesthetic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="lsa/lsa.shtml">LSA</a></td>
+<td class="topic-common">LAA, LA-111, Lysergamide, Ergine</td>
+<td class="topic-desc">Psychedelic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="lsd/lsd.shtml">LSD</a></td>
+<td class="topic-common">Acid, L</td>
+<td class="topic-desc">Psychedelic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="lsz/lsz.shtml">LSZ</a></td>
+<td class="topic-common"></td>
+<td class="topic-desc">Psychedelic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="maois/maois.shtml">MAOIs</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">.</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mbdb/mbdb.shtml">MBDB</a></td>
+<td class="topic-common">Eden, Methyl-J</td>
+<td class="topic-desc">Psychedelic Amphetamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mcpp/mcpp.shtml">mCPP</a></td>
+<td class="topic-common">CPP, 3-CPP</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mda/mda.shtml">MDA</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Amphetamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mde/mde.shtml">MDE</a></td>
+<td class="topic-common">Eve, MDEA</td>
+<td class="topic-desc">Psychedelic Amphetamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mdai/mdai.shtml">MDAI</a></td>
+<td class="topic-common">MDAI</td>
+<td class="topic-desc">Entactogen</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mdma/mdma.shtml">MDMA</a></td>
+<td class="topic-common">Ecstasy, X</td>
+<td class="topic-desc">Psychedelic Amphetamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mdpr/mdpr.shtml">MDPR</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mdpv/mdpv.shtml">MDPV</a></td>
+<td class="topic-common">Plant Food, NRG-1</td>
+<td class="topic-desc">Euphoric Stimulant, Empathogen</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mescaline/mescaline.shtml">MESCALINE</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="met/met.shtml">MET</a></td>
+<td class="topic-common">Methylethyltryptamine</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="methadone/methadone.shtml">METHADONE</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Opiate</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="meth/meth.shtml">METHAMPHETAMINE</a></td>
+<td class="topic-common">Meth, Ice, Crystal, Yaba</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="methaqualone/methaqualone.shtml">METHAQUALONE</a></td>
+<td class="topic-common">Quaaludes, Ludes</td>
+<td class="topic-desc">Depressant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="methiopropamine/methiopropamine.shtml">METHIOPROPAMINE</a></td>
+<td class="topic-common">MPA</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="methoxetamine/methoxetamine.shtml">METHOXETAMINE</a></td>
+<td class="topic-common">MXE</td>
+<td class="topic-desc">Dissociative, Psychedelic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="methoxphenidine/methoxphenidine.shtml">METHOXPHENIDINE</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Dissociative, Psychedelic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="methylone/methylone.shtml">METHYLONE</a></td>
+<td class="topic-common">bk-MDMA</td>
+<td class="topic-desc">Empathogen</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mipt/mipt.shtml">MIPT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="mptp/mptp.shtml">MPTP</a></td>
+<td class="topic-common">Fatal Meperedine-analog Contaminant</td>
+<td class="topic-desc">Narcotic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="nbome/nbome.shtml">NBOMe</a></td>
+<td class="topic-common">2C-C-NBOMe, Mescaline-NBOMe, etc.</td>
+<td class="topic-desc">Psychedelic, Stimulant, Euphoriant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="nicotine/nicotine.shtml">NICOTINE</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="nitrous/nitrous.shtml">NITROUS</a></td>
+<td class="topic-common">Whippits</td>
+<td class="topic-desc">Inhalant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="opiates/opiates.shtml">OPIATES</a></td>
+<td class="topic-common">Codeine, Morphine, Opium</td>
+<td class="topic-desc">Narcotics</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="opium/opium.shtml">OPIUM</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Narcotic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="petroleum_ether/petroleum_ether.shtml">PETROLEUM ETHER</a></td>
+<td class="topic-common">Naptha</td>
+<td class="topic-desc">Volative Solvent</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="piperazines/piperazines.shtml">PIPERAZINES</a></td>
+<td class="topic-common">BZP, TFMPP, CPP, MeOPP, A2</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="pcp/pcp.shtml">PCP</a></td>
+<td class="topic-common">Phencyclidine</td>
+<td class="topic-desc">Dissociative</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="pma/pma.shtml">PMA</a></td>
+<td class="topic-common">4-MA, paramethoxyamphetamine</td>
+<td class="topic-desc">Empathogenic Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="pmma/pmma.shtml">PMMA</a></td>
+<td class="topic-common">4-MMA, paramethoxymethylamphetamine</td>
+<td class="topic-desc">Empathogenic Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="psilocybin/psilocybin.shtml">PSILOCYBIN & PSILOCIN</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="salvinorin_b_ethoxymethyl_ether/salvinorin_b_ethoxymethyl_ether.shtml">SALVINORIN B ETHOXYMETHYL ETHER</a></td>
+<td class="topic-common">Symmetry</td>
+<td class="topic-desc">Atypical Psychedelic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="scopolamine/scopolamine.shtml">SCOPOLAMINE</a></td>
+<td class="topic-common">&nbsp;</td>
+<td class="topic-desc">deliriant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="spice_product/spice_product.shtml">"SPICE" PRODUCT</a></td>
+<td class="topic-common">Unknown</td>
+<td class="topic-desc">Intoxicant, Psychedelic, Cannabinoid</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="ssris/ssris.shtml">SSRIs</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">.</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="tfmpp/tfmpp.shtml">TFMPP</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="/plants/cannabis/cannabis.shtml">THC</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Cannabinoid</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="tma2/tma2.shtml">TMA-2</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="/animals/toads/toads.shtml">TOAD VENOM</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Tryptamines</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="14b/14b.shtml">1,4-BUTANEDIOL</a></td>
+<td class="topic-common">1,4-B, BDO</td>
+<td class="topic-desc">Depressant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2_aminoindan/2_aminoindan.shtml">2-AMINOINDAN</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2cb/2cb.shtml">2C-B</a></td>
+<td class="topic-common">Bees, Nexus</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2cb_fly/2cb_fly.shtml">2C-B-FLY</a></td>
+<td class="topic-common">2C-Bromo-Fly</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2cc/2cc.shtml">2C-C</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2cc_nbome/2cc_nbome.shtml">2C-C-NBOMe</a></td>
+<td class="topic-common">25C-NBOMe</td>
+<td class="topic-desc">Psychedelic Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2cd/2cd.shtml">2C-D</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2ce/2ce.shtml">2C-E</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2ci/2ci.shtml">2C-I</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2ci_nbome/2ci_nbome.shtml">2C-I-NBOMe</a></td>
+<td class="topic-common">25I-NBOMe</td>
+<td class="topic-desc">Psychedelic Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2cp/2cp.shtml">2C-P</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2ct2/2ct2.shtml">2C-T-2</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2ct4/2ct4.shtml">2C-T-4</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2ct7/2ct7.shtml">2C-T-7</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="2ct21/2ct21.shtml">2C-T-21</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Phenethylamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="3cp/3cp.shtml">3C-P</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="3-meo-pcp/3-meo-pcp.shtml">3-MeO-PCP</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Dissociative, Psychedelic</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_acetoxy_det/4_acetoxy_det.shtml">4-ACETOXY-DET</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_acetoxy_dipt/4_acetoxy_dipt.shtml">4-ACETOXY-DIPT</a></td>
+<td class="topic-common">4-Ace</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_acetoxy_dmt/4_acetoxy_dmt.shtml">4-ACETOXY-DMT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_acetoxy_mipt/4_acetoxy_mipt.shtml">4-ACETOXY-MIPT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_fluoroamphetamine/4_fluoroamphetamine.shtml">4-FLUOROAMPHETAMINE</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_fluoromethcathinone/4_fluoromethcathinone.shtml">4-FLUOROMETHCATHINONE</a></td>
+<td class="topic-common">Flephedrone</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_ho_dipt/4_ho_dipt.shtml">4-HYDROXY-DIPT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_ho_met/4_ho_met.shtml">4-HYDROXY-MET</a></td>
+<td class="topic-common">4-HO-MET; Metocin; Methylcybin</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_ho_mipt/4_ho_mipt.shtml">4-HYDROXY-MIPT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_ho_mpt/4_ho_mpt.shtml">4-HYDROXY-MPT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4meo_pcp/4meo_pcp.shtml">4-MeO-PCP</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Dissociative</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_methylaminorex/4_methylaminorex.shtml">4-METHYLAMINOREX</a></td>
+<td class="topic-common">U4EA</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_methylmethcathinone/4_methylmethcathinone.shtml">4-METHYLMETHCATHINONE</a></td>
+<td class="topic-common">Mephedrone</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4_methylethcathinone/4_methylethcathinone.shtml">4-METHYLETHCATHINONE</a></td>
+<td class="topic-common">4-MEC</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="4mta/4mta.shtml">4-MTA</a></td>
+<td class="topic-common">Flatliner, Goldeneagle</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="5_it/5_it.shtml">5-IT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="5meo_amt/5meo_amt.shtml">5-MeO-AMT</a></td>
+<td class="topic-common">alpha,O-DMS</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="5meo_dalt/5meo_dalt.shtml">5-MeO-DALT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="5meo_dmt/5meo_dmt.shtml">5-MeO-DMT</a></td>
+<td class="topic-common">5-MeO</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="5meo_dipt/5meo_dipt.shtml">5-MeO-DIPT</a></td>
+<td class="topic-common">Foxy, Foxy Methoxy</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="5meo_mipt/5meo_mipt.shtml">5-MeO-MIPT</a></td>
+<td class="topic-common">.</td>
+<td class="topic-desc">Psychedelic Tryptamine</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="6_apb/6_apb.shtml">6-APB</a></td>
+<td class="topic-common">Benzo Fury</td>
+<td class="topic-desc">Stimulant</td>
+</tr>
+
+<tr class="topic-surround">
+<td class="topic-name"><a href="other/chemicals_other.shtml">OTHER CHEMICALS</a></td>
+<td class="topic-common">Various</td>
+<td class="topic-desc">Various</td>
+</tr>
+
+</table>
+<!-- - - - - - END TOPIC CHART FOR THIS SECTION - - - - - - - - - - - - - - - - - - -->
+
+
+<div class="index-links-int">
+
+
+<div class="links-list">
+<div class="ish">GENERAL INFORMATION <a href="#general" name="general" class="pa">#</a></div>
+<div class="link-int"><a href="/psychoactives/research_chemicals/">Research Chemicals / New Psychoactive Substances (NPS)</a></div>
+<div class="link-int"><a href="maois/maois.shtml">MAOIs (Monoamine Oxidase Inhibitor)</a></div>
+<div class="link-int"><a href="ssris/ssris.shtml">SSRIs (Selective Serotonin Re-uptake Inhibitor)</a></div>
+<div class="link-int"><a href="chemicals_images.shtml">Images of Chemicals and Synthetic Psychoactives</a></div>
+<div class="link-int"><a href="/ask/ask.cgi?A=ListByCat&Cat0=92&x=15&y=10">Ask Erowid : Chemicals</a></div>
+</div>
+
+
+<div class="links-list">
+<div class="ish">LAW <a href="#law" name="law" class="pa">#</a></div>
+<div class="link-int"><a href="chemicals_law1.shtml">WHO Request for Info on 8 Chemicals</a></div>
+</div>
+
+
+<div class="links-list">
+<div class="ish">BOOKS <a href="#books" name="books" class="pa">#</a></div>
+<div class="link-int"><a href="/library/books/drug_and_natural.shtml">The Drug and Natural Medicine Advisor</a></div>
+<div class="link-int"><a href="/library/books/pdr.shtml">Physicians Desk Reference</a></div>
+<div class="link-int"><a href="/library/books/drugs_and_brain.shtml">Drugs and the Brain</a>, by Solomon Snyder</div>
+<div class="more"><a href="/library/books/a_plants_chemicals.shtml#chemistry">
+&#187; &#187; &#187; &nbsp MORE &nbsp &#187; &#187; &#187;</a></div>
+</div>
+
+
+</div><!-- end index-links-ext -->
+</div><!-- end content-section -->
+<!-- - - - - - - - - - - - - - - - - B E G I N    F O O T E R - - - - - - - - - - - - - - - - - - - - - - - - - -->
+</div><!-- end content-body-frame--></div><!-- end content-outer-frame-->
+
+<div id="footer-frame">
+<div class="footer-backto">
+[ <a href="/chemicals/">back to chemicals</a> ]</div><!--end footer-backto-->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" id="footer-bar"><tr>
+<td width="10" background="/includes/headers/images/bar_solid_footer.gif">&nbsp;</td>
+<td width="140" background="/includes/headers/images/bar_solid_footer.gif" valign="top">
+	<table border="0" cellpadding="2" cellspacing="0" width="140"><tr>
+	<td valign="top" id="footer-menu"><script language="JavaScript">PlaceMenu("footer")</script></td>
+	</tr></table>
+</td>
+<td align="center">
+	<table border="0" cellpadding="2" cellspacing="0" width="100%" background="/includes/headers/images/bar_solid_footer.gif" height="22"><tr>
+	<td align="center"><div class="footer1">Created by Erowid - Q2, 1999</div></td>
+	</tr></table>
+</td>
+<td width="10" background="/includes/headers/images/bar_solid_footer.gif">&nbsp;</td>
+<td width="140" background="/includes/headers/images/bar_solid_footer.gif" align="right"><div class="footer2">Modified&nbsp;-&nbsp;Jul 8, 2018</div></td>
+</tr></table>
+
+<div class="footer-copyright">Content &amp; design &copy; 1995-2018 Erowid.org. Permission required before publicly reproducing Erowid info.</div>
+</div><!-- end footer-frame-->
+
+
+</div><!-- end main-frame -->
+<!-- - - - - - - - - - - - - - - - - E N D    F O O T E R - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+</body>
+</html>

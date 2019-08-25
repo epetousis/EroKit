@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6237408322BBA23B009127B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6237408222BBA23B009127B1 /* AppDelegate.swift */; };
+		6237408522BBA23B009127B1 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6237408422BBA23B009127B1 /* MasterViewController.swift */; };
+		6237408722BBA23B009127B1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6237408622BBA23B009127B1 /* DetailViewController.swift */; };
+		6237408A22BBA23B009127B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6237408822BBA23B009127B1 /* Main.storyboard */; };
+		6237408C22BBA240009127B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6237408B22BBA240009127B1 /* Assets.xcassets */; };
+		6237408F22BBA240009127B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6237408D22BBA240009127B1 /* LaunchScreen.storyboard */; };
+		6237409622BBA278009127B1 /* EroKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62D9D3FC22B64E4C00266B12 /* EroKit.framework */; };
+		6237409722BBA278009127B1 /* EroKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 62D9D3FC22B64E4C00266B12 /* EroKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		62C7DEE022BBA78100031F3B /* PsychoactivesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62C7DEDF22BBA78100031F3B /* PsychoactivesTableViewController.swift */; };
+		62C7DEE222BBB20500031F3B /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62C7DEE122BBB20500031F3B /* WebKit.framework */; };
 		62D9AAC622B6808900111BC0 /* PsychoactiveDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D9AAC522B6808900111BC0 /* PsychoactiveDetail.swift */; };
 		62D9AAC822B68C7900111BC0 /* chemicals.shtml in Resources */ = {isa = PBXBuildFile; fileRef = 62D9AAC722B68C7900111BC0 /* chemicals.shtml */; };
 		62D9D40622B64E4C00266B12 /* EroKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 62D9D3FC22B64E4C00266B12 /* EroKit.framework */; };
@@ -20,6 +30,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		6237409822BBA278009127B1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 62D9D3F322B64E4C00266B12 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 62D9D3FB22B64E4C00266B12;
+			remoteInfo = EroKit;
+		};
 		62D9D40722B64E4C00266B12 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 62D9D3F322B64E4C00266B12 /* Project object */;
@@ -29,7 +46,32 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		6237409A22BBA278009127B1 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				6237409722BBA278009127B1 /* EroKit.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		6237408022BBA23B009127B1 /* EroKitExampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EroKitExampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6237408222BBA23B009127B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6237408422BBA23B009127B1 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		6237408622BBA23B009127B1 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		6237408922BBA23B009127B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6237408B22BBA240009127B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6237408E22BBA240009127B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6237409022BBA240009127B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6237409422BBA268009127B1 /* EroKitExampleApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EroKitExampleApp.entitlements; sourceTree = "<group>"; };
+		62C7DEDF22BBA78100031F3B /* PsychoactivesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PsychoactivesTableViewController.swift; sourceTree = "<group>"; };
+		62C7DEE122BBB20500031F3B /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		62D9AAC522B6808900111BC0 /* PsychoactiveDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PsychoactiveDetail.swift; sourceTree = "<group>"; };
 		62D9AAC722B68C7900111BC0 /* chemicals.shtml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.other; path = chemicals.shtml; sourceTree = "<group>"; };
 		62D9AAC922B6976900111BC0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -47,6 +89,15 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		6237407D22BBA23B009127B1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				62C7DEE222BBB20500031F3B /* WebKit.framework in Frameworks */,
+				6237409622BBA278009127B1 /* EroKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		62D9D3F922B64E4C00266B12 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -66,6 +117,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6237408122BBA23B009127B1 /* EroKitExampleApp */ = {
+			isa = PBXGroup;
+			children = (
+				6237409422BBA268009127B1 /* EroKitExampleApp.entitlements */,
+				6237408222BBA23B009127B1 /* AppDelegate.swift */,
+				6237408422BBA23B009127B1 /* MasterViewController.swift */,
+				62C7DEDF22BBA78100031F3B /* PsychoactivesTableViewController.swift */,
+				6237408622BBA23B009127B1 /* DetailViewController.swift */,
+				6237408822BBA23B009127B1 /* Main.storyboard */,
+				6237408B22BBA240009127B1 /* Assets.xcassets */,
+				6237408D22BBA240009127B1 /* LaunchScreen.storyboard */,
+				6237409022BBA240009127B1 /* Info.plist */,
+			);
+			path = EroKitExampleApp;
+			sourceTree = "<group>";
+		};
+		6237409522BBA278009127B1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				62C7DEE122BBB20500031F3B /* WebKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		62D9D3F222B64E4C00266B12 = {
 			isa = PBXGroup;
 			children = (
@@ -73,7 +148,9 @@
 				62D9AAC922B6976900111BC0 /* README.md */,
 				62D9D3FE22B64E4C00266B12 /* EroKit */,
 				62D9D40922B64E4C00266B12 /* EroKitTests */,
+				6237408122BBA23B009127B1 /* EroKitExampleApp */,
 				62D9D3FD22B64E4C00266B12 /* Products */,
+				6237409522BBA278009127B1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -82,6 +159,7 @@
 			children = (
 				62D9D3FC22B64E4C00266B12 /* EroKit.framework */,
 				62D9D40522B64E4C00266B12 /* EroKitTests.xctest */,
+				6237408022BBA23B009127B1 /* EroKitExampleApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -132,6 +210,25 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		6237407F22BBA23B009127B1 /* EroKitExampleApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6237409322BBA240009127B1 /* Build configuration list for PBXNativeTarget "EroKitExampleApp" */;
+			buildPhases = (
+				6237407C22BBA23B009127B1 /* Sources */,
+				6237407D22BBA23B009127B1 /* Frameworks */,
+				6237407E22BBA23B009127B1 /* Resources */,
+				6237409A22BBA278009127B1 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6237409922BBA278009127B1 /* PBXTargetDependency */,
+			);
+			name = EroKitExampleApp;
+			productName = EroKitExampleApp;
+			productReference = 6237408022BBA23B009127B1 /* EroKitExampleApp.app */;
+			productType = "com.apple.product-type.application";
+		};
 		62D9D3FB22B64E4C00266B12 /* EroKit */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 62D9D41022B64E4C00266B12 /* Build configuration list for PBXNativeTarget "EroKit" */;
@@ -181,6 +278,9 @@
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = "Evangelos Petousis";
 				TargetAttributes = {
+					6237407F22BBA23B009127B1 = {
+						CreatedOnToolsVersion = 11.0;
+					};
 					62D9D3FB22B64E4C00266B12 = {
 						CreatedOnToolsVersion = 11.0;
 						LastSwiftMigration = 1100;
@@ -208,11 +308,22 @@
 			targets = (
 				62D9D3FB22B64E4C00266B12 /* EroKit */,
 				62D9D40422B64E4C00266B12 /* EroKitTests */,
+				6237407F22BBA23B009127B1 /* EroKitExampleApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		6237407E22BBA23B009127B1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6237408F22BBA240009127B1 /* LaunchScreen.storyboard in Resources */,
+				6237408C22BBA240009127B1 /* Assets.xcassets in Resources */,
+				6237408A22BBA23B009127B1 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		62D9D3FA22B64E4C00266B12 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -232,6 +343,17 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		6237407C22BBA23B009127B1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6237408722BBA23B009127B1 /* DetailViewController.swift in Sources */,
+				62C7DEE022BBA78100031F3B /* PsychoactivesTableViewController.swift in Sources */,
+				6237408522BBA23B009127B1 /* MasterViewController.swift in Sources */,
+				6237408322BBA23B009127B1 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		62D9D3F822B64E4C00266B12 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -254,6 +376,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		6237409922BBA278009127B1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 62D9D3FB22B64E4C00266B12 /* EroKit */;
+			targetProxy = 6237409822BBA278009127B1 /* PBXContainerItemProxy */;
+		};
 		62D9D40822B64E4C00266B12 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 62D9D3FB22B64E4C00266B12 /* EroKit */;
@@ -261,7 +388,68 @@
 		};
 /* End PBXTargetDependency section */
 
+/* Begin PBXVariantGroup section */
+		6237408822BBA23B009127B1 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6237408922BBA23B009127B1 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		6237408D22BBA240009127B1 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6237408E22BBA240009127B1 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
 /* Begin XCBuildConfiguration section */
+		6237409122BBA240009127B1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = EroKitExampleApp/EroKitExampleApp.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DERIVE_UIKITFORMAC_PRODUCT_BUNDLE_IDENTIFIER = YES;
+				DEVELOPMENT_TEAM = 2XNZ62C8VU;
+				INFOPLIST_FILE = EroKitExampleApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = net.petousis.evan.EroKitExampleApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_UIKITFORMAC = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6237409222BBA240009127B1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = EroKitExampleApp/EroKitExampleApp.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DERIVE_UIKITFORMAC_PRODUCT_BUNDLE_IDENTIFIER = YES;
+				DEVELOPMENT_TEAM = 2XNZ62C8VU;
+				INFOPLIST_FILE = EroKitExampleApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = net.petousis.evan.EroKitExampleApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_UIKITFORMAC = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		62D9D40E22B64E4C00266B12 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -474,6 +662,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		6237409322BBA240009127B1 /* Build configuration list for PBXNativeTarget "EroKitExampleApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6237409122BBA240009127B1 /* Debug */,
+				6237409222BBA240009127B1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		62D9D3F622B64E4C00266B12 /* Build configuration list for PBXProject "EroKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
